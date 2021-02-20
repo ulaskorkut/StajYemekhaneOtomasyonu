@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\StajProjesi1\bin\Debug\StajProjesi1.exe.config
+C:\Users\Asus\source\repos\StajProjesi1\bin\Debug\StajProjesi1.exe
+C:\Users\Asus\source\repos\StajProjesi1\bin\Debug\StajProjesi1.pdb
+C:\Users\Asus\source\repos\StajProjesi1\obj\Debug\StajProjesi1.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StajProjesi1\obj\Debug\StajProjesi1.Form1.resources
+C:\Users\Asus\source\repos\StajProjesi1\obj\Debug\StajProjesi1.Properties.Resources.resources
+C:\Users\Asus\source\repos\StajProjesi1\obj\Debug\StajProjesi1.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\StajProjesi1\obj\Debug\StajProjesi1.exe
+C:\Users\Asus\source\repos\StajProjesi1\obj\Debug\StajProjesi1.pdb
